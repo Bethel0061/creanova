@@ -1,0 +1,45 @@
+*{  
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Karla", sans-serif;
+}
+.active {
+    color: #131203 !important;
+    font-weight: bold;
+    border-bottom: 2px solid #131203;
+}
+.carousel-caption{
+    background-color: black;
+    opacity: .5;
+}
+h1{
+    border-bottom: 1px solid silver;
+    margin-top: -30px;
+    margin-bottom: 22px;
+}
+h3{
+    /* display: block; */
+}
+.text-md-start{
+    text-align: left !important;
+}
+footer{
+    background-color: rgb(240, 228, 213);
+}
+h5, a{
+    /* text-align: left !important; */
+    text-decoration: none;
+    color: rgb(195, 121, 32);
+}
+
+footer,ul{
+    list-style: none;
+    text-align: left !important;
+}
+.courses-header{
+    margin-top: 90px;
+}
+.about-us-header{
+    margin-top: 80px;
+}
